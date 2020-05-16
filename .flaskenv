@@ -1,0 +1,1 @@
+FLASK_APP=anime_front_end.py
